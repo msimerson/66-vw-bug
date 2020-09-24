@@ -1,2 +1,2 @@
-# 66-vw-bug
-1966 VW Beetle
+# 67-vw-bug
+1967 VW Beetle
